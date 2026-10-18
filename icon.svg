@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="2画面比較プレイヤー">
+  <rect width="256" height="256" rx="52" fill="#0b1016"/>
+  <rect x="26" y="62" width="95" height="132" rx="16" fill="#ff8040"/>
+  <rect x="135" y="62" width="95" height="132" rx="16" fill="#3ec3ff"/>
+  <path d="M58 104v48l36-24z" fill="#0b1016"/>
+  <path d="M167 104v48l36-24z" fill="#0b1016"/>
+  <rect x="124" y="46" width="8" height="164" rx="4" fill="#ffd23f"/>
+</svg>
